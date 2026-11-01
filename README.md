@@ -10,7 +10,7 @@ I cleaned 7,556 IKEA Saudi Arabia products, tested what goes with ratings and to
 
 ## Dashboard Preview
 
-!\[Dashboard](dashboard/dashboard.png)
+![Dashboard](IKEA_Dashboard.png)
 
 ## 
 
@@ -79,13 +79,9 @@ I cleaned 7,556 IKEA Saudi Arabia products, tested what goes with ratings and to
 ​```
 
 ikea-ksa-catalog-analysis/
-
 ├── README.md
-
-├── dashboard/   (dashboard image)
-
-└── reports/     (case study PDF)
-
+├── IKEA_Dashboard.png                       (dashboard image)
+└── IKEA_Catalog_Analysis_Case_Study_Final.pdf   (case study PDF)
 ​```
 
 ## 
